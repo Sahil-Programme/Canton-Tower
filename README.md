@@ -14,11 +14,14 @@ Files included:
 
 * Code file: canton_tower_code.ino
 * Cad file : Assembly.stp
-** leds template .dxf
+* leds template .dxf
 
 //---------------------------
+
 // TIP/GUIDE:
+
 //---------------------------
+
 Each Led has 4 pins:
 DATA IN
 DATA OUT
